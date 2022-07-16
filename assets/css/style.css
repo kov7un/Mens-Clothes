@@ -42,6 +42,10 @@ h1 {
     "footer footer footer";
 }
 
+div>img {
+  width: 100%;
+}
+
 img+img {
   width: 33.1%;
   margin: 10px 0px;
@@ -83,6 +87,7 @@ h4 {
 
 .card {
   filter: blur(1.5px);
+  width: 100%;
 }
 
 .card:hover {
